@@ -1,1 +1,9 @@
-﻿Console.WriteLine("Hello, World!");
+﻿
+
+for (int i = 1; i <=100; i++)
+
+{
+    //Code
+
+
+}
